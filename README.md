@@ -25,3 +25,8 @@ The code also tracks the largest semiprime factored and its bit size.
 This is useful for monitoring how the algorithm performs with different numbers. 
 Additionally, the execution time and number of gate operations are measured, which helps optimize the quantum circuit or test different quantum backends. 
 
+### Information about the challenge "Crack the Code with Quantum Factorization" from the iQuHACK 2025 hackathon:
+
+https://github.com/iQuHACK/2025-Quantum-Factorization-With-Quantum-Rings   
+
+
